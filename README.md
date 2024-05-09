@@ -8,9 +8,10 @@ Ruan Magela é um profissional dedicado, com profundo interesse por estudos e pe
 
 - 🌱 I’m currently learning ...
 
+Estou em um processo de aprendizado de diversas linguagens de programação, como Python, JavaScript, HTML/CSS, Java e SQL. Cada uma dessas linguagens desempenha um papel fundamental em diferentes aspectos do desenvolvimento de software e da computação em geral. Enquanto Python é conhecida por sua versatilidade e aplicabilidade em inteligência artificial e análise de dados, JavaScript é essencial para a criação de páginas web dinâmicas. HTML e CSS são fundamentais para a construção e estilização de páginas web, Java é usado em uma variedade de aplicativos empresariais e móveis, e SQL é crucial para o gerenciamento e consulta de bancos de dados relacionais. Este processo de aprendizado abrirá portas para uma variedade de oportunidades no campo da tecnologia.
 
 - 💞️ I’m looking to collaborate on ...
-
+Atualmente, estou em busca de participar de novos projetos, buscando oportunidades para aplicar minhas habilidades e conhecimentos em desenvolvimento de software. Com experiência em linguagens como Python, JavaScript, HTML/CSS, Java e SQL, estou preparado para contribuir de forma significativa em diferentes áreas da tecnologia. Minha paixão pela aprendizagem contínua e meu comprometimento com a excelência me capacitam a enfrentar desafios e alcançar resultados excepcionais em qualquer projeto que eu me envolva. Estou aberto a colaborações em equipes multidisciplinares e ansioso para contribuir para o sucesso de novas iniciativas.
 
 - 📫 How to reach me ...
 
