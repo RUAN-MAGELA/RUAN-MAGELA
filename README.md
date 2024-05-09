@@ -14,11 +14,12 @@ Estou em um processo de aprendizado de diversas linguagens de programação, com
 Atualmente, estou em busca de participar de novos projetos, buscando oportunidades para aplicar minhas habilidades e conhecimentos em desenvolvimento de software. Com experiência em linguagens como Python, JavaScript, HTML/CSS, Java e SQL, estou preparado para contribuir de forma significativa em diferentes áreas da tecnologia. Minha paixão pela aprendizagem contínua e meu comprometimento com a excelência me capacitam a enfrentar desafios e alcançar resultados excepcionais em qualquer projeto que eu me envolva. Estou aberto a colaborações em equipes multidisciplinares e ansioso para contribuir para o sucesso de novas iniciativas.
 
 - 📫 How to reach me ...
-
+ Atraves de instagram ruan_vinicius
 
 - 😄 Pronouns: ...
-
+Os pronomes relacionados são aqueles que se referem a pessoas, lugares, coisas ou ideias mencionadas anteriormente na frase. Eles incluem pronomes relativos, como "que", "quem", "cujo", entre outros, que conectam frases ou orações relacionadas. Esses pronomes são essenciais para evitar repetições excessivas na linguagem escrita e oral, além de tornar o texto mais fluido e claro para o leitor ou ouvinte. Dominar o uso correto dos pronomes relacionados é fundamental para a comunicação eficaz em diversos contextos linguísticos.
 
 - ⚡ Fun fact: ...
 
-
+Por que o programador colocou uma vassoura do lado do computador?
+Porque ele estava "varrendo" os bugs do código! Mas, para sua surpresa, a vassoura começou a responder com "if-else" e sugerir otimizações de código! Aparentemente, o computador não era o único dispositivo inteligente no escritório. Nunca subestime o potencial de uma boa vassoura programadora!
